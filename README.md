@@ -1,30 +1,30 @@
-## Hello 👋 I am Alex
-#### 💻 Full-stack JavaScript developer
-#### 🎨 UI/UX Designer
-#### 🎧 Music addict
-#### 🕹️ Competitive gamer
-#### 📷 Beginner photographer - [Unsplash](https://unsplash.com/@afbogdan)
+### Hello 👋 I am Alex
+💻 Full-stack JavaScript developer <br>
+🎨 UI/UX Designer <br>
+🎧 Music addict <br>
+🕹️ Competitive gamer <br>
+📷 Beginner photographer - [Unsplash](https://unsplash.com/@afbogdan)
 <br>
 
-## Competences 💪
-#### 💻 Software development
-#### 👀 User research
-#### 🎨 User interface design
-#### 😍 User experience design
-#### 🖊️ Content production
+### Competences 💪
+💻 Software development <br>
+👀 User research <br>
+🎨 User interface design <br>
+😍 User experience design <br>
+🖊️ Content production <br>
 <br>
 
-## Contact 📧
-#### [G-mail](afbogdan.design@gmail.com)
-#### [LinkedIn](https://www.linkedin.com/in/afbogdan/)
-#### *Portfolio coming soon*
+### Contact 📧
+[G-mail](afbogdan.design@gmail.com) <br>
+[LinkedIn](https://www.linkedin.com/in/afbogdan/) <br>
+*Portfolio coming soon* <br>
 <br>
  
-## Work status 🔨 
-#### Collaborating with [Beierholm](https://www.beierholm.dk/en/) on different projects
-#### Developing a [budget planner](https://github.com/afbogdan/budget-planner) for my 3rd semester elective exam
+### Work status 🔨 
+Working at part-time at [Beierholm](https://www.beierholm.dk/en/)  <br>
+Developing a [budget planner](https://github.com/afbogdan/budget-planner) for my 3rd semester elective exam  <br>
 <br>
 
-## Location 📍
-#### Aalborg, Denmark
+### Location 📍
+Aalborg, Denmark
 
