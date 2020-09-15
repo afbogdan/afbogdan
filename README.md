@@ -13,7 +13,7 @@
 🖊️ Content production <br>
 
 ### Contact 📧
-[G-mail](afbogdan.design@gmail.com) <br>
+afbogdan.design@gmail.com <br>
 [LinkedIn](https://www.linkedin.com/in/afbogdan/) <br>
 *Portfolio coming soon* <br>
  
