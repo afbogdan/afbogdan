@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hello 👋 I am Alex
+#### 💻 Full-stack JavaScript developer
+#### 🎨 UI/UX Designer
+#### 🎧 Music addict
+#### 🕹️ Competitive gamer
+#### 📷 Beginner photographer - [Unsplash](https://unsplash.com/@afbogdan)
+<br>
 
-<!--
-**afbogdan/afbogdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Competences 💪
+#### 💻 Software development
+#### 👀 User research
+#### 🎨 User interface design
+#### 😍 User experience design
+#### 🖊️ Content production
+<br>
 
-Here are some ideas to get you started:
+## Contact 📧
+#### [G-mail](afbogdan.design@gmail.com)
+#### [LinkedIn](https://www.linkedin.com/in/afbogdan/)
+#### *Portfolio coming soon*
+<br>
+ 
+## Work status 🔨 
+#### Collaborating with [Beierholm](https://www.beierholm.dk/en/) on different projects
+#### Developing a [budget planner](https://github.com/afbogdan/budget-planner) for my 3rd semester elective exam
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Location 📍
+#### Aalborg, Denmark
+
