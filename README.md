@@ -19,7 +19,7 @@ afbogdan.design@gmail.com <br>
  
 ### Work status 🔨 
 Working at part-time at [Beierholm](https://www.beierholm.dk/en/)  <br>
-Developing a [budget planner](https://github.com/afbogdan/budget-planner) for my 3rd semester elective exam  <br>
+Developing a [budget planner](https://github.com/afbogdan/budget-planner/tree/dev) for my 3rd semester elective exam  <br>
 
 ### Location 📍
 Aalborg, Denmark
