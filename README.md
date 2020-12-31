@@ -19,7 +19,6 @@ afbogdan.design@gmail.com <br>
  
 ### Status 🔨 
 Available for UI/UX Design/Web development opportuinities! <br>
-Created a [budget planner](https://github.com/afbogdan/budget-planner/tree/dev) MVP for my 3rd semester elective exam  <br>
 
 ### Location 📍
 Aalborg, Denmark
