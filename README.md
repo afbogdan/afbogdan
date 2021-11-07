@@ -13,13 +13,9 @@
 🖊️ Content production <br>
 
 ### Contact 📧
-afbogdan.design@gmail.com <br>
 [LinkedIn](https://www.linkedin.com/in/afbogdan/) <br>
-*Portfolio coming soon* <br>
  
-### Status 🔨 
-Available for UI/UX Design/Web development opportuinities! <br>
 
 ### Location 📍
-Aalborg, Denmark
+Copenhagen, Denmark
 
